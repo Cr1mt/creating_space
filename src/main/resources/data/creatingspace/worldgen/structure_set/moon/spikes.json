@@ -1,16 +1,16 @@
 {
   "structures": [
     {
-      "structure": "creatingspace:crashed_rocket",
+      "structure": "creatingspace:moon/spikes",
       "weight": 1
     }
   ],
   "placement": {
-    "salt": 1642136474,
+    "salt": 1642136457,
 
-    "spacing": 20,
+    "spacing": 3,
 
-    "separation": 6,
+    "separation": 1,
 
     "type": "minecraft:random_spread"
   }
